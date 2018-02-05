@@ -1,0 +1,9 @@
+C:\Users\dane\documents\visual studio 2017\Projects\EmailChecker\EmailChecker\bin\Release\EmailChecker.exe.config
+C:\Users\dane\documents\visual studio 2017\Projects\EmailChecker\EmailChecker\bin\Release\EmailChecker.exe
+C:\Users\dane\documents\visual studio 2017\Projects\EmailChecker\EmailChecker\bin\Release\EmailChecker.pdb
+C:\Users\dane\documents\visual studio 2017\Projects\EmailChecker\EmailChecker\bin\Release\Bunifu_UI_v1.5.3.dll
+C:\Users\dane\documents\visual studio 2017\Projects\EmailChecker\EmailChecker\obj\Release\EmailChecker.Form1.resources
+C:\Users\dane\documents\visual studio 2017\Projects\EmailChecker\EmailChecker\obj\Release\EmailChecker.Properties.Resources.resources
+C:\Users\dane\documents\visual studio 2017\Projects\EmailChecker\EmailChecker\obj\Release\EmailChecker.csproj.GenerateResource.Cache
+C:\Users\dane\documents\visual studio 2017\Projects\EmailChecker\EmailChecker\obj\Release\EmailChecker.exe
+C:\Users\dane\documents\visual studio 2017\Projects\EmailChecker\EmailChecker\obj\Release\EmailChecker.pdb

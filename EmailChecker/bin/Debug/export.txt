@@ -1,0 +1,60 @@
+Handle: Air | Gmail: Error | Hotmail: Exist | Yahoo: Error | Error: Less characters
+Handle: All | Gmail: Error | Hotmail: Exist | Yahoo: Error | Error: Less characters
+Handle: Alternate | Gmail: Doesnt exist | Hotmail: Exist | Yahoo: Exist | Error: No error
+Handle: After | Gmail: Error | Hotmail: Exist | Yahoo: Exist | Error: Less characters
+Handle: Axe | Gmail: Error | Hotmail: Exist | Yahoo: Error | Error: Less characters
+Handle: Anti | Gmail: Error | Hotmail: Exist | Yahoo: Exist | Error: Less characters
+Handle: Art | Gmail: Error | Hotmail: Exist | Yahoo: Error | Error: Less characters
+Handle: Amp | Gmail: Error | Hotmail: Exist | Yahoo: Error | Error: Less characters
+Handle: Ant | Gmail: Error | Hotmail: Exist | Yahoo: Error | Error: Less characters
+Handle: Aunt | Gmail: Error | Hotmail: Exist | Yahoo: Exist | Error: Less characters
+Handle: Artsy | Gmail: Error | Hotmail: Exist | Yahoo: Exist | Error: Less characters
+Handle: Accuracy | Gmail: Doesnt exist | Hotmail: Exist | Yahoo: Exist | Error: No error
+Handle: Anus | Gmail: Error | Hotmail: Exist | Yahoo: Exist | Error: Less characters
+Handle: Always | Gmail: Doesnt exist | Hotmail: Exist | Yahoo: Exist | Error: No error
+Handle: Awkward | Gmail: Doesnt exist | Hotmail: Exist | Yahoo: Exist | Error: No error
+Handle: Ask | Gmail: Error | Hotmail: Exist | Yahoo: Error | Error: Less characters
+Handle: Age | Gmail: Error | Hotmail: Exist | Yahoo: Error | Error: Less characters
+Handle: Ace | Gmail: Error | Hotmail: Exist | Yahoo: Error | Error: Less characters
+Handle: Aviator | Gmail: Doesnt exist | Hotmail: Exist | Yahoo: Exist | Error: No error
+Handle: Angel | Gmail: Error | Hotmail: Exist | Yahoo: Exist | Error: Less characters
+Handle: Angle | Gmail: Error | Hotmail: Exist | Yahoo: Exist | Error: Less characters
+Handle: Adapt | Gmail: Error | Hotmail: Exist | Yahoo: Exist | Error: Less characters
+Handle: Adore | Gmail: Error | Hotmail: Exist | Yahoo: Exist | Error: Less characters
+Handle: Adorable | Gmail: Doesnt exist | Hotmail: Exist | Yahoo: Exist | Error: No error
+Handle: Bull | Gmail: Error | Hotmail: Exist | Yahoo: Exist | Error: Less characters
+Handle: Box | Gmail: Error | Hotmail: Exist | Yahoo: Error | Error: Less characters
+Handle: Butt | Gmail: Error | Hotmail: Exist | Yahoo: Exist | Error: Less characters
+Handle: Ball | Gmail: Error | Hotmail: Exist | Yahoo: Exist | Error: Less characters
+Handle: Ballad | Gmail: Doesnt exist | Hotmail: Exist | Yahoo: Exist | Error: No error
+Handle: Banner | Gmail: Doesnt exist | Hotmail: Doesnt exist | Yahoo: Exist | Error: No error
+Handle: Band | Gmail: Error | Hotmail: Exist | Yahoo: Exist | Error: Less characters
+Handle: Barn | Gmail: Error | Hotmail: Exist | Yahoo: Exist | Error: Less characters
+Handle: Bass | Gmail: Error | Hotmail: Exist | Yahoo: Exist | Error: Less characters
+Handle: Bait | Gmail: Error | Hotmail: Exist | Yahoo: Exist | Error: Less characters
+Handle: Barter | Gmail: Doesnt exist | Hotmail: Exist | Yahoo: Exist | Error: No error
+Handle: Back | Gmail: Error | Hotmail: Exist | Yahoo: Exist | Error: Less characters
+Handle: Bale | Gmail: Error | Hotmail: Exist | Yahoo: Exist | Error: Less characters
+Handle: Baffle | Gmail: Doesnt exist | Hotmail: Exist | Yahoo: Exist | Error: No error
+Handle: Boop | Gmail: Error | Hotmail: Exist | Yahoo: Exist | Error: Less characters
+Handle: Boo | Gmail: Error | Hotmail: Exist | Yahoo: Error | Error: Less characters
+Handle: Bop | Gmail: Error | Hotmail: Exist | Yahoo: Error | Error: Less characters
+Handle: Bit | Gmail: Error | Hotmail: Exist | Yahoo: Error | Error: Less characters
+Handle: Bite | Gmail: Error | Hotmail: Exist | Yahoo: Exist | Error: Less characters
+Handle: Bowl | Gmail: Error | Hotmail: Exist | Yahoo: Exist | Error: Less characters
+Handle: Bill | Gmail: Error | Hotmail: Exist | Yahoo: Exist | Error: Less characters
+Handle: Bout | Gmail: Error | Hotmail: Exist | Yahoo: Exist | Error: Less characters
+Handle: Bog | Gmail: Error | Hotmail: Exist | Yahoo: Error | Error: Less characters
+Handle: Carpet | Gmail: Doesnt exist | Hotmail: Exist | Yahoo: Exist | Error: No error
+Handle: Car | Gmail: Error | Hotmail: Exist | Yahoo: Error | Error: Less characters
+Handle: Cart | Gmail: Error | Hotmail: Exist | Yahoo: Exist | Error: Less characters
+Handle: Cat | Gmail: Error | Hotmail: Exist | Yahoo: Error | Error: Less characters
+Handle: Cast | Gmail: Error | Hotmail: Exist | Yahoo: Exist | Error: Less characters
+Handle: Care | Gmail: Error | Hotmail: Exist | Yahoo: Exist | Error: Less characters
+Handle: Call | Gmail: Error | Hotmail: Exist | Yahoo: Exist | Error: Less characters
+Handle: Cancer | Gmail: Doesnt exist | Hotmail: Exist | Yahoo: Exist | Error: No error
+Handle: Caw | Gmail: Error | Hotmail: Exist | Yahoo: Error | Error: Less characters
+Handle: Case | Gmail: Error | Hotmail: Exist | Yahoo: Exist | Error: Less characters
+Handle: Camera | Gmail: Doesnt exist | Hotmail: Exist | Yahoo: Exist | Error: No error
+Handle: Cam | Gmail: Error | Hotmail: Exist | Yahoo: Error | Error: Less characters
+Handle: Cavity | Gmail: Doesnt exist | Hotmail: Exist | Yahoo: Exist | Error: No error
